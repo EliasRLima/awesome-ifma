@@ -13,7 +13,7 @@ As provas e trabalhos estão dentro de seus diretórios com nomes respectivos as
 </br>
 Nota aos alunos</br>
 Se você deseja contribuir para o projeto:
- - Voce pode criar sua propria branch e realizar um pull-request. Sua contribuição ficará online o mais rapido possivel e outros alunos saberão que você contribuiu neste projeto.
+ - Voce pode criar sua propria branch e realizar um pull-request. Sua contribuição ficará online o mais rapido possivel e ficará registrado que você contribuiu neste projeto.
  - Caso não deseje aparecer como contribuidor ou não saiba como fazer isso, você pode enviar as provas para o e-mail eliaslima@acad.ifma.edu.br.
 </br>
 </br>
