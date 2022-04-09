@@ -21,4 +21,3 @@ Nota aos professores</br>
 Sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.
 </br>
 </br>
-Projeto baseado no awesome-ufma.
