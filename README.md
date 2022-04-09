@@ -4,7 +4,8 @@
 
 
 Uma lista de provas das disciplinas ministradas no IFMA - Monte Castelo.
-As provas estão dentro de seus diretórios com nomes respectivos as matérias. Cada pasta de disciplina contém subdiretórios nomeados com o ano em que o teste foi aplicado.
+As provas estão dentro de seus diretórios com nomes respectivos as matérias. Cada pasta de disciplina contém subdiretórios nomeados com o ano em que o teste foi aplicado.</br>
+Este projeto quem como objetivo garantir aos estudantes materiais para estudo e dar uma ideia do que ele deverá aprender durante as disciplinas.
 </br>
 </br>
 Nota aos alunos</br>
