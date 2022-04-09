@@ -1,0 +1,15 @@
+- Seminario (Projeto final)
+
+Escolha um tema sobre BD II não tratado em aula. A partir do tema escolhido desenvolva um seminário a ser apresentado no final da disciplina. Desenvolva um trabalho escrito e uma apresentação de slides com os seguinte itens:
+1. Estrutura básica de um relatório (capa, sumário, etc).
+2. Introdução: apresente o tema, sua relação com BD II, sua importancia, principais problemas e desafios e aplicações.
+3. Seções de desenvolvimento completo.
+4. Referências: apresente para cada referencia Autor, Título, Meio de publicação física, Editora, Ano (opcional: link). Dê preferencia para livros e artigos.
+5. Slides para apresentação seguindo a mesma estrutura do trabalho final.
+
+Cada equipe terá 15 minutos para sua apresentação. Se necessário usarmos mais de uma aula para as apresentações.
+
+Submeta via Classroom até a data limite um arquivo compactado contendo Texto e Apresentação (ambos em PDF) com os itens solicitados. Arquivos em outros formatos serão ignorados. Nomeie o seu arquivo segundo o padrão: BD2-ativ-3-<NomeDoAluno>.pdf
+
+Nota 1: Edite o nome dos componentes de sua equipe no Google Doc em anexo.
+Nota 2: Algumas ideias de tema para seminários podem ser tiradas do sumário do livro do Silberschatz.
