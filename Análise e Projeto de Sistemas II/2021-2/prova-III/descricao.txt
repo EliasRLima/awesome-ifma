@@ -1,0 +1,11 @@
+- Entrega do Sistema (50%) e Relatório de Avaliação (50%) do mesmo.
+
+A equipe deve apresentar o sistema desenvolvido, os resultados da avaliação e indicar o que foi ajustado (se for o caso) no sistema após avaliação. 
+
+
+ 
+O Relatório da Avaliação do Sistema deve conter:
+descrição de como a avaliação  foi realizada, publico alvo (nomes dos alunos) e instrumento de avaliação utilizado 
+descrição dos resultados alcançados e o que foi necessário ajustar no sistema
+Colocar o link de acesso ao sistema para que eu possa testar posteriormente.
+Colocar o link de acesso ao formulário do instrumento de avaliação utilizado
