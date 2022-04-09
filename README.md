@@ -14,4 +14,5 @@ Se você deseja contribuir para o projeto:
 Nota aos professores</br>
 Se você é um professor preocupado com estudantes estudando para sua prova, como eles deveriam estar, sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.
 </br>
->Projeto baseado no [awesome-ufma](https://github.com/elheremes/awesome-ufma) .
+
+Projeto baseado no https://github.com/elheremes/awesome-ufma.
