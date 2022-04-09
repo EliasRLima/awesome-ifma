@@ -1,4 +1,3 @@
-# awesome-ifma
 
 # Awesome IFMA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
