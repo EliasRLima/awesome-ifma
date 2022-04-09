@@ -1,0 +1,34 @@
+O restante das notas foram de atividades praticas, para essas atividades foram usados (tudo em java) :
+
+- Vetores
+- Matrizes 
+- Metodos
+- Classes e Objetos
+- Herança
+- Polimorfismo
+
+Trabalho final:
+Objetivo
+======
+• Desenvolva Sistema em JAVA, com suas principais
+funcionalidades.
+
+Data/Entrega
+======================
+• 21/Dez (Sistema Funcionando); Enviar um vídeo do sistema
+funcionando.
+
+Recomendações
+=============
+• Grupos de no máximo 3 componentes; Necessita identificar os
+grupos no vídeo;
+• Usar os conceitos de Orientação a Objetos (Classes, Atributos,
+Encapsulamento, Herança, Exceções, etc);
+• Sistema deverá possuir:
+o Interfaces;
+o Mensagens de feedback (para o usuário), quando executar
+os métodos;
+o Autenticação;
+o Cadastros;
+o Validação de dados (quando houver necessidade);
+o Relatórios (visualização de dados).
