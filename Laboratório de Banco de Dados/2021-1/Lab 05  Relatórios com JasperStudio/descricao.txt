@@ -1,0 +1,8 @@
+Este laboratório tem como objetivo desenvolver relatórios gerenciais para o banco de dados de locação de imobiliária (mesma base de dados usada no Laboratório 04)... Você deverá inserir os dados previamente.
+
+Em todos os relatórios deverão ser realizadas as devidas formatações visuais, incluindo recursos como data, moeda, número de página, fontes, bordas, alinhamentos, sumarização dos valores numéricos, dentre outras formatações que for conveniente.
+
+Serão desenvolvidos os seguintes relatórios:
+1. Deve recuperar todos os alugues da locação de um determinado cliente.
+
+2. Gere um relatório que exiba um gráfico com o valor do aluguel para os 5 imóveis que tiveram mais locações.
