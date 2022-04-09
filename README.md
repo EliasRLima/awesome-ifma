@@ -13,7 +13,7 @@ Se você deseja contribuir para o projeto:
  - Caso não deseje aparecer como contribuidor ou não saiba como fazer isso, você pode enviar as provas para o e-mail eliaslima@acad.ifma.edu.br.
 </br>
 Nota aos professores</br>
-Se você é um professor preocupado com estudantes estudando para sua prova, como eles deveriam estar, sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.
+Sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.
 </br>
 </br>
 Projeto baseado no awesome-ufma.
