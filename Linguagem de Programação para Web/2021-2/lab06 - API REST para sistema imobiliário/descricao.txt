@@ -1,0 +1,3 @@
+Veja o link com o projeto frete-api apresentado nas aulas síncronas
+
+Importante: Implementar o mecanismo de cache para uma das entidades do projeto.

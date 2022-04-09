@@ -1,0 +1,26 @@
+Nesse laboratório vamos seguir todo o processo de desenvolvimento de um
+site apresentado na apostila de HTML e CSS, que segue em anexo... O fluxo de
+desenvolvimento são apresentados nos capítulos 3 e 4... O resultado do projeto
+é um site para um e-commerce de moda chamado Mirror Fashion.
+
+
+ 
+
+
+Importante: você pode seguir o caminho que achar mais
+adequado para atingir o layout alvo, inclusive mudando o tema e as imagens.
+
+
+ 
+
+
+Também fique livre
+para usar a sua criatividade e todos os conceitos já apresentados, assim como
+propriedades CSS ainda não estudadas para formação de fontes, bordas,
+espaçamento e alinhamento, etc...
+
+
+ 
+
+
+OBS: Nesse laboratório não é preciso implementar as funcionalidades com javascript.

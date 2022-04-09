@@ -1,0 +1,3 @@
+https://github.com/jcpinheiro/freteapi
+
+https://www.baeldung.com/spring-boot-bean-validation
