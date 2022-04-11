@@ -1,0 +1,23 @@
+1. Problema das fatoriais
+   -> Desenvolva um algoritmo que resolva f(x) = x!
+   
+2. Problema da Torre de Hanoi
+   -> Desenvolva um algoritmo que dado um numero n de discos presentes na torre, informe quantos movimentos serão necessario para resolver a torre
+   
+ 3. Problema de Fibonacci
+   ->Ultilize um algoritmo para resolver o problema: "dado um caso de coelhos, supondo que a cada mes um casal da a vida a um novo casal e supondo que estes nao morrem, determine o numero de coelhos apos n meses"
+   
+ 4. Problema das potencias
+   -> dado um valor x, desenvolva um algoritmo que resolva a potencia desse por um valor Y
+   
+ 5. Raiz quadrada
+   -> O cálculo da raiz quadrada de um número real x pode ser feito através do seguinte algoritmo:
+	 
+	 
+	 		         y, se |y² - x| <= z
+	 RaizQ(x,y,z) = 
+	 				 RaizQ(x, (y² + x) / (2y), z)
+	 				
+	 				
+	em que y é uma aproximação inicial do valor raiz(x) e z é um erro admissível.
+	Dessa forma implemente a execucao desse problema e diga o resultado para x = 13, y = 3.2, z = 0.001

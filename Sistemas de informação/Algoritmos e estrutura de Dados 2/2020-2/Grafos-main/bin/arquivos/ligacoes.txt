@@ -1,0 +1,5 @@
+Lago da Pedra;Vitorino Freire;50
+Lago da Pedra;Bacabal;60
+Lago da Pedra;Pedreiras;60
+Pedreiras;Peritoro;30
+Bacabal;Peritoro;40
