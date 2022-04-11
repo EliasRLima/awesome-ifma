@@ -1,0 +1,5 @@
+Comparação entre a Árvore AVL e RedBlack
+
+Como a árvore AVL, a árvore rubro-negra é também um tipo de árvore binária balanceada.
+Porém, diferente da árvore AVL, que usa a altura das suas sub-árvores, 
+a árvore rubro-negra utiliza um esquema de coloração dos nós para manter o balanceamento da árvore.
