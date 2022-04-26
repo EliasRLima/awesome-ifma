@@ -1,3 +1,0 @@
-2) Dado um conjunto de strings, imprima-as em ordem lexicográfica ou alfabética.
-Entrada: O Prof. Hélder Pereira Borges
-Saída: Borges Hélder O Pereira Prof.
