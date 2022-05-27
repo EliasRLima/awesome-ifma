@@ -1,0 +1,5 @@
+Seguem as descrição das consultas, o script do banco de dados com a "massa de dados", e o diagrama relacional para ajudar na montagem das consultas.
+
+Informações importantes:
+- O laboratório poderá ser feito individual ou dupla
+- Deverá se entregue um script com a respostas das consultas SQL

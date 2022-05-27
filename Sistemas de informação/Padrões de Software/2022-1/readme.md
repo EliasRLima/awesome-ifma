@@ -1,0 +1,1 @@
+As atividades podem ser feitas individualmente ou em duplas
