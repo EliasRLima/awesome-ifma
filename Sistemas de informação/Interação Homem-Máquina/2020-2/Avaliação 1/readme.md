@@ -1,0 +1,1 @@
+Acesse o enunciado abaixo para desenvolver a atividade avaliativa. A relação dos projetos por equipe e sua descrição está no arquivo PROJETOS IHC 2020.2.
