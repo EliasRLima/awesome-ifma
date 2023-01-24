@@ -1,0 +1,19 @@
+Atividade 07 (Etapa 03 - Parte 02): Proposta de um Pipeline para um ambiente de Integração Contínua
+
+
+Informações importante:
+ 
+Implementação de um Pipeline para Integração Contínua . 
+
+Para essa entrega,  me envie os prints das telas ou uma gravação (seria ideal)  com o pipeline em execução.
+
+* Para cada ferramenta/plugin selecionada na definição do pipeline é obrigatório escrever uma justificativa
+
+* Pode-se utilizar qualquer ferramenta de integração contínua. Como sugestão use o Travis CI ou o Jenkins, github actions. Todos possuem uma vasta documentação.
+
+* É fundamental definir/justificar uma estratégia de braching (ramificação) ou Branching Models.... Seguem alguns links que podem ajudar nessa tarefa.
+
+https://docs.gitlab.com/ee/topics/gitlab_flow.html
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+https://guides.github.com/introduction/flow/
+https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
