@@ -1,0 +1,26 @@
+Dada o contexto do seguinte banco de dados descrito por um usuário não especialista
+
+Deseja-manter dados de cidades (nome, estado, website), onde cada cidade possui um ou mais restaurantes (nome, valor da refeição) e hotéis (nome, valor da diária). Além disso, deseja-se registrar pacotes turísticos vendidos. Para registrar um pacote turístico, deve-se armazenar a data de criação, escolher  uma  cidade,  definir  a  data  da  viagem,  o  hotel  de  hospedagem  e  o  número  de  dias  de permanência, assim como calcular o valor total do pacote turístico. Deve-se também definir se no pacote vai estar incluso ou não um restaurante e, se sim, quantas refeições por dia serão consumidas. Também, opcionalmente poderá ter outros serviços adicionais, como passeios turísticos (descricao e valor)
+
+( O laboratório deverá ser desenvolvido de individualmente)
+
+1. Modele, crie o esquema físico, e "popule" o banco de dados (3 pontos)
+     Nessa etapa você deverá inferir os campos e tipos de dados necessários para atendimento aos requisitos definidos pelo usuário.
+
+2. **Procedures:** (3 pontos)
+
+a) Elabore uma procedure que receba uma taxa (porcentagem – parâmetro IN) para reajustar o valor da diária de um determinado hotel .
+b) Implemente uma procedure que calcule e armazena o custo total de um pacote turístico, levando em consideração não apenas o hotel e as refeições, mas também outros serviços adicionais, como passeios turísticos opcionais.
+
+
+3. **Triggers:** 
+
+(4 pontos)
+c) Implemente um trigger que registre automaticamente a data de criação de um pacote turístico quando ele for inserido no banco de dados e o seu valor total (você poderá usar a procedure definida na etapa anterior para calcular o custo total)
+
+d) Crie um trigger que rastreie e registre todas as modificações feitas nos pacotes turísticos em uma nova  tabela chamada "pacotes_turisticos_alterados",  incluindo, além das informações do pacote turístico,  quem fez a modificação e a data da alteração.
+
+e) Implemente um trigger que, antes de inserir um novo pacote turístico, verifique se o hotel e o restaurante escolhidos estão na mesma cidade. Caso contrário, impeça a inserção do pacote.
+
+    Dica: para impedir inserção de registro no MySQL
+              SIGNAL sqlstate '45001' set message_text = 'Sua mensagem aqui.';
